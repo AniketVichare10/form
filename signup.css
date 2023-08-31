@@ -1,0 +1,70 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Signika Negative', sans-serif;
+    background-color: rgb(238, 238, 140);
+  
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    margin-right: 35%;
+    margin-left: 35%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 20px;
+    font-size: 20px;
+}
+#fname,#lname,#email,#mobile,#dob,#pass,#cpass{
+    margin-bottom: 10px;
+}
+#tc2{
+    margin-bottom: 20px;
+}
+.gender{
+    margin-bottom: 10px;
+}
+button{
+    width: 30%;
+    height: 40px;
+    background-color: aquamarine;
+    color: green;
+    border-radius: 10px;
+}
+.fa-solid.fa-user{
+    position: absolute;
+    color:purple;
+    top:27%;
+    left: 50%;
+    font-size: 17px;
+}
+.fa-solid.fa-envelope{
+    position: absolute;
+    color:purple;
+    top:37%;
+    left: 50%;
+    font-size: 17px;
+}
+.fa-solid.fa-phone{
+    position: absolute;
+    color: purple;
+    top: 55%;
+    left:50%;
+    font-size: 17px;
+}
+.fa-solid.fa-key{
+    position: absolute;
+    color: purple;
+    top: 74%;
+    left:50%;
+    font-size: 17px;
+}
+.fa-solid.fa-lock{
+    position: absolute;
+    color: purple;
+    top: 83%;
+    left:50%;
+    font-size: 17px;
+}
