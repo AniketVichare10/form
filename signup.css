@@ -2,7 +2,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: 'Signika Negative', sans-serif;
-    background-color: rgb(238, 238, 140);
+    background-color: yellow;
   
 }
 main{
@@ -35,7 +35,7 @@ button{
 }
 .fa-solid.fa-user{
     position: absolute;
-    color:purple;
+    color:black;
     top:27%;
     left: 50%;
     font-size: 17px;
@@ -63,7 +63,7 @@ button{
 }
 .fa-solid.fa-lock{
     position: absolute;
-    color: purple;
+    color: black;
     top: 83%;
     left:50%;
     font-size: 17px;
